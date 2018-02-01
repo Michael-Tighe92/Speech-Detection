@@ -1,2 +1,3 @@
 # Speech-Detection
-Created using Speech Detection (JavaScript30)
+
+- A Javascript project that detects your voice and outputs to text.
